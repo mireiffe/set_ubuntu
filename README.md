@@ -1,4 +1,4 @@
-# setting_ubuntu
+# Codes for setting new ubuntu
 
 ## Environment
 - OS
