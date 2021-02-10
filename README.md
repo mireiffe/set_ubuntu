@@ -16,7 +16,6 @@
   + wget
   + curl
   + vim
-  + play on linux
 - zsh & oh-my-zsh
   + plugins
     + Syntax highlighting
