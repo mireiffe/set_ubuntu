@@ -6,7 +6,7 @@
     + Ubuntu 20.04 LTS
   + Compatible (maybe)
     + Other ubuntu branches
-    + Debian based linux system
+    + Debian based linux operating systems
 - Device
   + Samsung Notebook 7 Force (NT760XBV-g78a)
 
@@ -16,7 +16,6 @@
   + wget
   + curl
   + vim
-  + play on linux
 - zsh & oh-my-zsh
   + plugins
     + Syntax highlighting
