@@ -10,7 +10,7 @@
 - Device
   + Samsung Notebook 7 Force (NT760XBV-g78a)
 
-## List of programs
+## A list of programs
 - Basics
   + git
   + wget
