@@ -5,7 +5,7 @@
   + Tested
     + Ubuntu 20.04 LTS
   + Compatible (maybe)
-    + Other Ubuntu branches
+    + Other ubuntu branches
     + Debian based linux system
 - Device
   + Samsung Notebook 7 Force (NT760XBV-g78a)
