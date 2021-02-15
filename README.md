@@ -25,3 +25,5 @@
 - miniconda
 - google chrome
 - tilix
+  + custom configuration file
+- playonlinux

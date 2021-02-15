@@ -1,1 +1,1 @@
-sudo apt-get install tilix -y
+apt-get install tilix -y
